@@ -1,5 +1,5 @@
 # Naive-Bayes
-Simple Naives Bayes Machine Learning on Diabetes and Car datasets.
+Simple Naives Bayes Machine Learning on Diabetes and Car datasets. (Python2 because this code is really old)
 
 Cars:  
 Predict where a car was built based on its attributes (look at Bayes Report.pdf for more information)  
